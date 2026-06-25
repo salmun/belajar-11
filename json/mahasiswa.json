@@ -1,0 +1,29 @@
+{
+    "method": "GET",
+    "data": {
+        "mahasiswa": [
+            {
+                "id": 1,
+                "nama": "Salmun",
+                "jurusan": "Teknik Informatika"
+            },
+            {
+                "id": 2,
+                "nama": "Budi",
+                "jurusan": "Sistem Informasi"
+            }
+        ],
+        "karyawan": [
+            {
+                "id": 1,
+                "nama": "Rina",
+                "jabatan": "Project Manager"
+            },
+            {
+                "id": 2,
+                "nama": "Dedi",
+                "jabatan": "Backend Developer"
+            }
+        ]
+    }
+}
